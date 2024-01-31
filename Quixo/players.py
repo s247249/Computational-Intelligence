@@ -3,7 +3,7 @@ import numpy as np
 import random
 import math
 
-DEPTH_LEVELS = 4
+DEPTH_LEVELS = 2
 
 class RandomPlayer(Player):
     def __init__(self) -> None:
