@@ -12,7 +12,7 @@ The basic random agent initially provided.
 
 ### ManualPlayer()
 A class implemented to allow any user to manually play the game step by step.\
-When this agent is selected, the following instructions are provided on the terminal at the beginning of the game on how to provide the correct input in order for the class to work:
+When this agent is selected, the following instructions are provided on the terminal at the beginning of the game on how to provide the correct input in order for the class to work:\
 `Select your moves based on 3 integers: X Y Shift`\
 `X and Y are your coordinates. They range from 0 to 4 and go respectively from left to right (X) and from top to bottom (Y)`\
 `Shift is the movement of an entire line of cells and can be:\n0: From Top    1: From Bottom    2: FromLeft    3: From Right`\
